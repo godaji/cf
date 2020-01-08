@@ -1,8 +1,12 @@
 # cf
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+
+jihye0420
+jijeong
 gpfud1998
 jihye0420
 and kimjeonghui
->>>>>>> dc4e63654c18131d08d3750509a538942776b2d7
+>>>>>>> 674190341e32b3202989a2d8a4a91f4165f61061
