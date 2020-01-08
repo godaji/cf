@@ -1,2 +1,2 @@
 # cf
-hahoetal & jihye0420 & gpfud1998 & jihye0420 & DaruDarugit & jihye0420 & jijeong & gpfud1998 & jihye0420 & seongminKwon99 & fhbsy & AYoungSn & twstella & shhong
+DaruDarugit and shhong and jihye0420 and jijeong and gpfud1998 and jihye0420 and DaruDarugit and seongminKwon99 and fhbsy and AYoungSn and twstella and teagh82 and hahoetal
