@@ -1,2 +1,3 @@
 # cf
-hahoetal & jihye0420
+<<<<<<< HEAD
+hahoetal & jihye0420 & gpfud1998 & jihye0420
