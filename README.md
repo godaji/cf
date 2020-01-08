@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # cf
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -38,3 +38,7 @@ shhong and jihye0420 and jijeong and gpfud1998 and jihye0420 and DaruDarugit and
 =======
 DaruDarugit and shhong and jihye0420 and jijeong and gpfud1998 and jihye0420 and DaruDarugit and seongminKwon99 and fhbsy and AYoungSn and twstella and teagh82
 >>>>>>> 2b35ce54b432c37d36f39c0e9680214026c58979
+=======
+DaruDarugit and shhong and jihye0420 and jijeong and gpfud1998 and jihye0420 and DaruDarugit and seongminKwon99 and fhbsy and AYoungSn and twstella and teagh82
+hi!
+>>>>>>> 30648a28dc8a15bb4fd9ba339f070b8087b5e388
