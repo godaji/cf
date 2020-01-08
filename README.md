@@ -1,5 +1,8 @@
 # cf
+<<<<<<< HEAD
 
 
-jihye0420 and kimjeonghui
->>>>>>> c5b3bd1c9ab1ac9447c9bf7c70a3207bc9ad54e0
+gpfud1998
+jihye0420
+and kimjeonghui
+>>>>>>> dc4e63654c18131d08d3750509a538942776b2d7
