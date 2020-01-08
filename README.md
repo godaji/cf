@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # cf
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 DaruDarugit
 >>>>>>> bafd2d410d8d1c712671c639519156683ad6cca4
+=======
+
+>>>>>>> 0b100e9d904f5049bbdfb385f904273f1fa7278e
 jihye0420
 jijeong
 gpfud1998
@@ -13,8 +18,8 @@ jihye0420
 <<<<<<< HEAD
 DaruDarugit
 fhbsy
+
 and kimjeonghui
-=======
 and AYoungSn
 
  AYoungSn
@@ -23,4 +28,9 @@ fhbs
 
 
 twstella
->>>>>>> bafd2d410d8d1c712671c639519156683ad6cca4
+
+sunga0101
+twstella
+shhong and jihye0420 and jijeong and gpfud1998 and jihye0420 and DaruDarugit and seongminKwon99 and fhbsy and AYoungSn and twstella
+>>>>>>> f1847ce52a732b09aa53173bbfe419e6612c1d03
+>>>>>>> 0b100e9d904f5049bbdfb385f904273f1fa7278e
