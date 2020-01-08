@@ -1,6 +1,2 @@
 # cf
-DaruDarugit
-jihye0420
-jijeong
-gpfud1998
-jihye0420
+DaruDarugit and jihye0420 and jijeong and gpfud1998 and jihye0420
